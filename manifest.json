@@ -1,0 +1,10 @@
+{
+  "file_list": [
+  ],
+  "custom_middleware": {
+    "post": [{ "name": "JMSPostMiddleware" }],
+    "driver": "grpc"
+  },
+  "checksum": "",
+  "signature": ""
+}
